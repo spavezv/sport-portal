@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '2.4.0'
+ruby '2.4.6'
 
 # The Ruby on Rails web development framework
 # everything needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern
